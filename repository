@@ -1,0 +1,117 @@
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.option_menu, menu);
+//        darkModeSetup(menu);
+//        languageMenuSetup(menu.getItem(1));
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull @NotNull MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.darkmode:
+//                darkModeMenuSetup(item);
+//                setDarkMode(darkMode);
+                Toast.makeText(this,"hi", Toast.LENGTH_SHORT).show();
+                return true;
+            case R.id.language:
+                currentLanguage = currentLanguage.equals("tr") ? "gb" : "tr";
+//                languageMenuSetup(item);
+                setLocal(currentLanguage);
+                recreate();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+    private CharSequence menuIconWithText(Drawable drawable, String title) {
+        drawable.setBounds(0, 0, drawable.getIntrinsicWidth(), drawable.getIntrinsicHeight());
+        SpannableString titleString = new SpannableString("   " + title);
+        ImageSpan imageSpan = new ImageSpan(drawable, ImageSpan.ALIGN_BOTTOM);
+        titleString.setSpan(imageSpan, 0, 1, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+        return titleString;
+    }
+    private void setDarkMode(Boolean darkMode){
+//        SharedPreferences sharedPreferences = getApplicationContext().getSharedPreferences("sharedPrefs", MODE_PRIVATE);
+        SharedPreferences.Editor sharedPreferencesEdit = getSharedPreferences("sharedPrefs", MODE_PRIVATE).edit();
+        if (darkMode) {
+            AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
+            sharedPreferencesEdit.putBoolean("DarkMode", false);
+        } else {
+            AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
+            sharedPreferencesEdit.putBoolean("DarkMode", true);
+        }
+        Log.d("************************", String.valueOf(darkMode));
+        sharedPreferencesEdit.apply();
+    }
+
+//    private void darkModeMenuSetup(MenuItem item) {
+//        // dark mode controller
+//        SharedPreferences darkModeSetting = getApplicationContext().getSharedPreferences("sharedPrefs", MODE_PRIVATE);
+//        if(darkModeSetting.getBoolean("DarkMode", false)) {
+//            item.setTitle(menuIconWithText(ContextCompat.getDrawable(this, R.drawable.ic_sun), "Light Mode"));
+//            darkMode = false;
+//        } else {
+//            item.setTitle(menuIconWithText(ContextCompat.getDrawable(this, R.drawable.ic_moon), "Dark Mode"));
+//            darkMode = true;
+//        }
+//    }
+
+//    private void languageMenuSetup(MenuItem item) {
+//        String nextLanguage = currentLanguage.equals("tr") ? "gb" : "tr";
+//        Drawable langIcon = ContextCompat.getDrawable(this, getResources().getIdentifier(nextLanguage, "drawable", this.getPackageName()));
+//        item.setTitle(menuIconWithText(langIcon, "To: " + nextLanguage.toUpperCase()));
+//    }
+
+
+
+// For pop up window of setting  (in newer desing replaced with and activity)
+private PopupWindow initiatePopupWindow() {
+
+        try {
+            mInflater = (LayoutInflater) getApplicationContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+            View menuLayout = mInflater.inflate(R.layout.popup_layout, null);
+
+            final ImageView imgDarkMode = (ImageView) menuLayout.findViewById(R.id.imgDarkMode);
+            final ImageView imgLanguage = (ImageView) menuLayout.findViewById(R.id.imgLanguage);
+
+            menuLayout.measure(View.MeasureSpec.UNSPECIFIED, View.MeasureSpec.UNSPECIFIED);
+            settingWindow = new PopupWindow(menuLayout, FrameLayout.LayoutParams.WRAP_CONTENT, FrameLayout.LayoutParams.WRAP_CONTENT,true);
+            Drawable background = ContextCompat.getDrawable(this, R.color.transparent);
+            settingWindow.setBackgroundDrawable(background);
+            settingWindow.showAsDropDown(imgSetting, 0, 0);
+
+            imgDarkMode.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    settingWindow.dismiss();
+                    SharedPreferences sharedPreferences = getSharedPreferences("SharedPrefs", Context.MODE_PRIVATE);
+                    Boolean NightMode = sharedPreferences.getBoolean("night_mode",false);
+                    Log.d("********************", String.valueOf(NightMode));
+                    SharedPreferences.Editor editor = getSharedPreferences("SharedPrefs", Context.MODE_PRIVATE).edit();
+                    if (!NightMode) {
+                        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
+                        editor.putBoolean("night_mode", true).apply();
+                    } else {
+                        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
+                        editor.putBoolean("night_mode", false).apply();
+                    }
+                    reset();
+                }
+            });
+
+            imgLanguage.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+//                    changeLanguage();
+//                    recreate();
+                }
+            });
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return settingWindow;
+    }
