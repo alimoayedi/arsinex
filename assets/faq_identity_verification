@@ -1,0 +1,46 @@
+{
+  "en": [
+    {
+    "Q": "How is Authentication (KYC) done?",
+    "A": "Log in to your account via Arsinex.com or Arsinex mobile applications.\n\nAfter logging into your account, select the Authentication tab in My Account.\n\nFill in the required information completely and accurately.\n\nUpload the pictures of the front and back of the identity document and a selfie of your identity document with your face in JPG, PNG or PDF format to the system.\n\nAfter the system approves your information, your Authentication process will be completed."
+    },
+    {
+      "Q": "Why was my Authentication (KYC) request denied?",
+      "A": "If you apply with documents from a country other than the TRNC, the ID Authentication is rejected. Only TRNC citizens can perform KYC Authentication in our Exchange currently.\n\nYour application may be rejected because the documents you have uploaded do not meet the required criteria.\n\nYour application may be rejected as the authenticity of the information you have provided cannot be verified.\n\nIf you enter your TRNC ID information incomplete or incorrectly, your application will be rejected."
+    },
+    {
+      "Q": "Is Authentication (KYC) mandatory?",
+      "A": "All our customers who want to use our exchange have to do Identity Authentication (KYC) in order to both withdraw their available balances in their accounts and increase their account security. The main purpose of KYC verification is to prevent malicious people who want to transact through identity theft. Thus, customers are protected against such damaging transactions and an extra layer is added to the security of the exchange."
+    },
+    {
+      "Q": "Who keeps my information and how is it protected?",
+      "A": "The documents you have uploaded to our site are stored on special servers after various encryptions are performed. Any person or organization cannot access these documents. These documents are required due to the Know Your Customer (KYC) policy."
+    },
+    {
+      "Q": "Which nationalities can register?",
+      "A": "Our Exchange currently only serves TRNC citizens, but it will soon be opened to the service of citizens of other countries."
+    }
+  ],
+  "tr":[
+    {
+      "Q": "Kimlik Doğrulama (KYC) nasıl yapılır?",
+      "A": "Arsinex.com veya Arsinex mobil uygulamaları üzerinden hesabınıza giriş yapın.\n\nHesabınıza giriş yaptıktan sonra Hesabım kısmında Kimlik Doğrulama sekmesini seçin.\n\nİstenilen bilgileri eksiksiz ve doğru bir şekilde doldurun.\n\nKimlik belgesinin ön-arka kısım resimlerini ve yüzünüzle birlikte kimlik belgenizin net olarak gözüktüğü bir özçekiminizi JPG, PNG veya PDF formatında olacak şekilde sisteme yükleyin.\n\nSistem resimlerinizi onayladıktan sonra Kimlik Doğrulama işleminiz tamamlanacaktır."
+    },
+    {
+      "Q": "Kimlik Doğrulama (KYC) talebim neden reddedildi?",
+      "A": "KKTC haricinde başka bir ülke belgeleriyle başvuru yapmanız durumunda Kimlik Doğrulaması reddedilmektedir. Borsamızda şu anda yalnızca KKTC vatandaşları Kimlik Doğrulaması yapabilmektedir.\n\nYüklemiş olduğunuz belgeler istenilen kriterlere uymadığından başvurunuz reddedilebilir.\n\nSağlamış olduğunuz bilgilerin gerçekliği doğrulanamadığından başvurunuz reddedilebilir.\n\nKKTC Kimlik bilgilerinizi eksik veya hatalı girmeniz durumunda başvurunuz reddedilir."
+    },
+    {
+      "Q": "Kimlik Doğrulama (KYC) zorunlu bir işlem mi?",
+      "A": "Borsamızı kullanmak isteyen bütün müşterilerimiz hem hesaplarındaki kullanılabilir bakiyelerini çekebilmek hem de hesap güvenliklerini artırmak adına Kimlik Doğrulama (KYC) yapmak zorundadır. KYC doğrulamasının ana amacı kimlik hırsızlığı yoluyla işlem yapmak isteyen kötü niyetli kişilerin engellenmesidir. Böylece hem müşteriler bu türden zarar verici işlemlere karşı korunur hem de borsanın güvenliğine ekstra bir katman eklenir."
+    },
+    {
+      "Q": "Bilgilerim kim tarafından saklanıyor ve nasıl korunuyor?",
+      "A": "Sitemize yüklemiş olduğunuz evraklar çeşitli şifrelemeler gerçekleştirildikten sonra özel sunucularda depolanmaktadır. Herhangi bir şahıs ya da kuruluş bu evraklara kesinlikle ulaşamamaktır. Bu evraklar Müşterini Tanı (KYC) ilkesi nedeniyle istenmektedir."
+    },
+    {
+      "Q": "Hangi ülke vatandaşları kayıt olabilir?",
+      "A": "Borsamız şu anda yalnızca KKTC vatandaşlarına hizmet vermektedir ancak yakında diğer ülke vatandaşlarının hizmetine de açılacaktır."
+    }
+  ]
+}

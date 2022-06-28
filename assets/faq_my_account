@@ -1,0 +1,53 @@
+{
+  "en": [{
+    "Q": "How to create an Arsinex account?",
+    "A": "Enter Arsinex.com or open the Arsinex application and click [Register].\n\nEnter your E-Mail address, name-surname, password and invitation code(if any) that you will use for your account.\n\nAfter entering the security code that will be sent to your E-Mail, your account will be created.\n\nWhen you complete your Arsinex account creation process, you can log in to your Arsinex account by entering your E-Mail address and account password; and you can easily perform crypto trading and many other transactions instantly."
+    },
+    {
+      "Q": "How to create an Arsinex account with a phone number?",
+      "A": "Enter Arsinex.com or open the Arsinex application and click [Register].\n\nEnter the country code and mobile phone number you will use for your account, your name-surname, password and invitation code (if any).\n\nAfter entering the security code that will be sent to your device, your registration will be completed."
+    },
+    {
+      "Q": "I did not receive a confirmation code on my phone, what should I do?",
+      "A": "Click on the \"Resend\" link on the login page.\n\nRefresh the page after checking your phone's signal.\n\nIf there are any filters in your phone's SMS or SIM card settings, remove them.\n\nTry again using a different browser.\n\nIf the problem persists, you can contact our support team by creating a support request form or by calling 444 44 05."
+    },
+    {
+      "Q": "How can I add Arsinex E-Mail addresses to my list of safe addresses?",
+      "A": "Outlook:\n\nAfter logging in to your Outlook E-Mail, go to \"Settings\" > \"View all Outlook settings\".\n\nClick \"E-Mail\" > \"Junk E-Mail\" and you will see \"Trusted senders and domains\" option. Click on \"Safe Senders\" here.\n\nAfter clicking \"Add\", add the info@arsinex.com mail address to the list and click \"Save\".\n\nGmail:\n\nAfter logging into your Gmail account, select \"Settings\" > \"See All Settings\".\n\nGo to \"Filters and Blocked Addresses\" option. Click on \"Create new filter\".\n\nPaste info@arsinex.com in the \"From\" field . Then click on \"Create filter\".\n\nCheck the box next to \"Never send to Spam\" and click \"Create filter\"."
+    },
+    {
+      "Q": "How can I change my password?",
+      "A": "To change your password, click the Login Password tab in the My Account section. Enter the password you want to change.Enter your new password and repeat password and click Save."
+    },
+    {
+      "Q": "forgot your login password?",
+      "A": "Enter Arsinex.com or open the Arsinex application and click [Login].\n\n“Forgot your password?” Click on the text.\n\nEnter your E-Mail address or phone number linked to your account.\n\nClick on the link that is sent to your E-Mail or Phone to enter the new password setting screen.\n\nAfter you set your new password, you can login to your account."
+    }
+  ],
+  "tr":[
+    {
+      "Q": "Arsinex hesabı nasıl oluşturulur?",
+      "A": "Arsinex.com’a girin veya Arsinex uygulamasını açın ve [Kayıt ol] seçeneğine tıklayın.\n\nHesabınız için kullanacağınız e-posta adresinizi, ad-soyadınızı, şifrenizi ve (varsa) davet kodunuzu girin.\n\nE-Postanıza gelecek olan güvenlik kodunu girdikten sonra hesabınız oluşturulacaktır.\n\nArsinex hesap oluşturma işlemlerinizi tamamladığınızda E-Posta adresiniz ve hesap şifrenizi girerek Arsinex hesabınıza giriş yapabilir, kolaylıkla dijital para alım-satımı ve daha birçok işlemi anında gerçekleştirebilirsiniz."
+    },
+    {
+      "Q": "Telefon numarası ile Arsinex hesabı nasıl oluşturulur?",
+      "A": "Arsinex.com’a girin veya Arsinex uygulamasını açın ve [Kayıt ol] seçeneğine tıklayın.\n\nHesabınız için kullanacağınız ülke kodu ve cep telefonu numaranızı, ad-soyadınızı, şifrenizi ve (varsa) davet kodunuzu girin.\n\nCihazınıza gelecek olan güvenlik kodunu girdikten sonra kaydınız tamamlanacaktır."
+    },
+    {
+      "Q": "Telefonuma onay kodu gelmedi, ne yapmalıyım?",
+      "A": "Giriş sayfasında bulunan \"Tekrar Gönder\" bağlantısına tıklayın.\n\nTelefonunuzun sinyalini kontrol ettikten sonra sayfayı yenileyin.\n\nTelefonunuzun SMS veya SIM kart ayarlarında herhangi bir filtre varsa kaldırın.\n\nFarklı bir tarayıcı kullanarak tekrar deneyin.\n\nSorunun devam etmesi durumunda destek talebi oluşturarak destek ekibimize ulaşabilirsiniz."
+    },
+    {
+      "Q": "Arsinex e-posta adreslerini nasıl güvenilir adresler listeme ekleyebilirim?",
+      "A": "Outlook:\n\nOutlook e-postanıza giriş yaptıktan sonra \"Ayarlar\" > \"Tüm Outlook ayarlarını görüntüle\" öğesine gidin.\n\n\"E-posta\" > \"Gereksiz e-posta\" öğesine tıkladığınızda \"Güvenilir gönderenler ve etki alanları\" seçeneğini göreceksiniz. Burada \"Güvenli Gönderenler\" öğesine tıklayın.\n\n\"Ekle\" öğesine tıkladıktan sonra info@arsinex.com mail adresini listeye ekleyerek \"Kaydet\" seçeneğine tıklayın.\n\nGmail:\n\nGmail hesabınıza giriş yaptıktan sonra \"Ayarlar\" > \"Tüm Ayarları Gör\" öğesini seçin.\n\n\"Filtreler ve Engellenen Adresler\" sseçeneğine gidin. \"Yeni filtre oluştur\" seçeneğine tıklayın.\n\n\"Gönderen\" alanına info@arsinex.com adresini yapıştırın. Ardından \"Filtre oluştur\" öğesine tıklayın.\n\n\"Asla Spam'a gönderme\" seçeneğinin yanındaki kutuyu işaretleyin ve \"Filtre oluştur\" öğesine tıklayın."
+    },
+    {
+      "Q": "Şifremi nasıl değiştirebilirim?",
+      "A": "Şifrenizi değiştirmek için Hesabım bölümünde Giriş Şifresi sekmesine tıklayın.\n\nDeğiştirmek istediğiniz şifrenizi girin.\n\nYeni şifrenizi ve şifre tekrarını girerek Kaydet seçeneğine tıklayın."
+    },
+    {
+      "Q": "Şifremi unuttum, ne yapmalıyım?",
+      "A": "Arsinex.com'a girin veya Arsinex uygulamasını açın ve [Giriş Yap] seçeneğine tıklayın.\n\nAltta yer alan \"Şifrenizi unuttunuz mu?\" yazısına tıklayın.\n\nHesabınıza bağlı E-Posta adresinizi veya telefon numaranızı girin.\n\nGelen linke tıklayarak yeni şifre belirleme ekranına giriş yapın.\n\nYeni şifrenizi belirledikten sonra hesabınıza giriş yapabilirsiniz."
+    }
+  ]
+}

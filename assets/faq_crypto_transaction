@@ -1,0 +1,62 @@
+{
+  "en": [
+    {
+      "Q": "How do I buy/sell Cryptocurrency on Arsinex?",
+      "A": "In order to buy cryptocurrencies, you must first have Turkish Lira in your account.\n\nYou can go to the relevant page by finding the cryptocurrencies you want to buy in the markets section on the main page.\n\nYou can purchase by entering your purchase amount and the amount you offer regarding the cryptocurrencies you want to buy on the home page.\n\nIn order to be able to make your cryptocurrencies sales transactions, the cryptocurrencies you want to sell must be in your available balance. You can check whether the cryptocurrency you want to sell is available in your balance from Profile > My Balances.\n\nYou can go to the relevant page by selecting the cryptocurrencies you want to sell in the markets section on the main page, and enter the amount you want to sell your cryptocurrencies and the amount you offer on this page."
+    },
+    {
+      "Q": "Can I use other currencies when buying cryptocurrencies?",
+      "A": "Our exchange only supports Turkish Lira at the moment. Transactions in other currencies will be possible in the near future."
+    },
+    {
+      "Q": "How long are my open orders valid?",
+      "A": "The position will continue to hold unless the orders you create are executed or cancelled. You can view your open orders in the \"Open Orders\" tab at the bottom of the Buy-Sell screen."
+    },
+    {
+      "Q": "How can I transfer cryptocurrencies to another crypto account?",
+      "A": "You can send your cryptocurrencies by entering the address you want to send in the Wallet> Crypto Withdrawal page.\n\nAttention: The address from which you want to withdraw cryptocurrency must be exactly the same as the type of cryptocurrency you withdraw. Since cryptocurrencies are stored with distributed wallet technology (DLT), no transaction can be undone."
+    },
+    {
+      "Q": "Can I use my crypto currency anywhere?",
+      "A": "You can make payments to all institutions that accept payments with cryptocurrencies by sending the relevant cryptocurrencies from our exchange."
+    },
+    {
+      "Q": "How many Turkish Liras can I trade at least?",
+      "A": "The minimum fee required to make transactions on Arsinex varies according to each cryptocurrency. The minimum deposit and withdrawal amount of Turkish Lira is 50 Turkish Lira."
+    },
+    {
+      "Q": "I can't see the amount I deposited in my account, what should I do?",
+      "A": "When your transactions with the banks we have contracted with reach us, they will be instantly approved and reflected in your Arsinex account. If you make a transaction with a bank other than the contracted banks, your transfer will take place within the working hours of the bank. Transfers made outside of working hours are processed at the next day's working hours.\n\nBe sure to enter the description code.\n\nIn some cases, delays may also occur due to the Electronic Payment System (EÖS).\n\nFor all your problems, you can reach our Live Support team by calling 0392 444 44 05 at any time, 7 days 24 hours."
+    }
+  ],
+  "tr":[
+    {
+      "Q": "Arsinex’te nasıl kripto para alırım/satarım?",
+      "A": "Kripto para alma işlemi gerçekleştirebilmeniz için öncelikle hesabınızda Türk Lirası bulunmalıdır.\n\nSatın almak istediğiniz kripto parayı ana sayfada bulunan marketler bölümünde bularak ilgili sayfaya gidebilirsiniz.\n\nAna sayfa içerisinde satın almak istediğiniz kripto para ile ilgili alım miktarınızı ve teklif ettiğiniz tutarı girerek satın alma işlemini gerçekleştirebilirsiniz.\n\nKripto para satış işlemlerinizi yapabilmeniz için satışını yapmak istediğiniz kripto paranın kullanılabilir bakiyenizde olması gerekmektedir. Cüzdan > Bakiyelerim kısmından satmak istediğiniz kripto paranın kullanılabilir bakiyenizde bulunup bulunmadığını kontrol edebilirsiniz.\n\nAna sayfada bulunan marketler bölümünde satmak istediğiniz kripto parayı seçerek ilgili sayfaya gidip, bu sayfa içerisinde kripto paranızı satmak istediğiniz miktarı ve teklif ettiğiniz tutarı girerek satış işlemini gerçekleştirebilirsiniz."
+    },
+    {
+      "Q": "Kripto para alırken diğer döviz cinslerini kullanabilir miyim?",
+      "A": "Sitemiz şu an sadece Türk Lirasını desteklemektedir. En yakın zamanda diğer döviz cinsleriyle de işlemler gerçekleştirilebilecektir."
+    },
+    {
+      "Q": "Açık emirlerim ne kadar süre ile geçerlidir?",
+      "A": "Oluşturduğunuz emirler gerçekleşmedikçe ya da iptal edilmedikçe pozisyon tutmaya devam eder. Açık emirlerinizi Al-Sat ekranının en altında yer alan “Açık Emirler” sekmesinde görüntüleyebilirsiniz."
+    },
+    {
+      "Q": "Kripto paraları başka bir kripto para hesabına nasıl transfer edebilirim?",
+      "A": "Kripto paralarınızı Cüzdan> Kripto Para Çekme sayfasında göndermek istediğiniz adresi girerek gönderebilirsiniz.\n\nDikkat: Kripto para çekmek istediğiniz adresin kripto para cinsi ile çektiğiniz kripto para cinsinin kesinlikle aynı olması gerekmektedir. Kripto paralar dağıtık cüzdan teknolojisi (DLT) ile saklandığı için yapılan hiçbir işlem geri alınamaz."
+    },
+    {
+      "Q": "Kripto paramı her yerde kullanabilir miyim?",
+      "A": "Kripto para ile ödeme kabul eden tüm kuruluşlara, borsamızdan ilgili kripto parayı göndererek ödeme yapabilirsiniz."
+    },
+    {
+      "Q": "En az kaç Türk Lirası ile işlem gerçekleştirebilirim?",
+      "A": "Arsinex’te işlem yapılabilmesi için gereken minimum ücret her kripto paraya göre değişmektedir. Minimum Türk Lirası yatırma ve çekme tutarı 50 Türk Lirasıdır."
+    },
+    {
+      "Q": "Hesabıma yatırdığım miktarı hesabımda göremiyorum, ne yapmalıyım?",
+      "A": "Anlaşmalı olduğumuz bankalar ile yaptığınız işlemler tarafımıza ulaştığı zaman anında onaylanarak Arsinex hesabınıza yansıtılacaktır. Anlaşmalı bankalar haricinde bir banka ile işlem yapmanız halinde aktarımınız banka mesai saatleri içerisinde gerçekleşmektedir. Mesai saatleri dışında yapılan aktarımlar, ertesi günün mesai başlangıç saatinde işleme alınır.\n\nAçıklama kodunu girdiğinizden emin olun.\n\nBazı durumlarda Elektronik Ödeme Sisteminden (EÖS) kaynaklı gecikmeler de yaşanabilmektedir.\n\nBütün sorunlarınızda 7 gün 24 saat her an 0392 444 44 05 numaralı telefonu arayarak Canlı Destek ekibimize ulaşabilirsiniz."
+    }
+  ]
+}

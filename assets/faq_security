@@ -1,0 +1,38 @@
+{
+  "en": [
+    {
+      "Q": "Safety Tips",
+      "A": "DO NOT give your account password to anyone, including Arsinex Support Team.\n\nDO NOT call any phone number given by people claiming to be an Arsinex employee or support team, other than the phone numbers in the Arsinex Contact Information section.\n\nDO NOT send money to anyone claiming to be an Arsinex employee.\n\nEnable Two-Factor Authentication (2FA)."
+    },
+    {
+      "Q": "How to enable Google Authenticator?",
+      "A": "Download the Google Authenticator app on your device and open the app.\n\nEnter Arsinex.com or open the Arsinex application and click Sign In .\n\nAfter logging in to your account, enter the Google Verification tab in My Account and scan the QR code on the screen with your device. \n\nIf you are logging in on the same device where you use the Google Authenticator application, enter the code that appears on the screen into the Google Authenticator application.\n\nMake a backup of the QR and written code so you can use it in case of any problems.\n\nComplete your transaction by entering the confirmation code that appears in the Google Authenticator application."
+    },
+    {
+      "Q": "How to Fix 2FA Code Error?",
+      "A": "If you're getting a code error when trying to enter your Google Verification code, try the following solutions:\n\nSync the time of the Google Authenticator app with your device. If you are using an Android device, go to the main menu of the Google Authenticator app. In the settings section, click on the \"Time correction for codes\" button. In the menu that opens, select the \"Sync now\" option.\n\nClear your browser's cache and cookies.\n\nIf your problem is not resolved, reset the Google Authenticator app."
+    },
+    {
+      "Q": "Is my account logged in from other devices?",
+      "A": "If you think there is an unusual login to your account, you can view all devices that have logged into your account, their login times and IP addresses by entering the My Logins tab in My Account."
+    }
+  ],
+  "tr":[
+    {
+      "Q": "Güvenlik İpuçları",
+      "A": "Hesap şifrenizi Arsinex Destek Ekibi dahil kimseye VERMEYİN.\n\nArsinex İletişim Bilgileri kısmında yer alan telefon numaraları dışında Arsinex çalışanı ya da destek ekibinden olduğunu iddia eden kişilerin verdiği hiçbir telefon numarasını ARAMAYIN.\n\nArsinex çalışanı olduğunu iddia eden kişilere hiçbir şekilde para GÖNDERMEYİN.\n\nİki Faktörlü Kimlik Doğrulaması (2FA)’nı etkinleştirin."
+    },
+    {
+      "Q": "Google Authenticator nasıl etkinleştirilir?",
+      "A": "Google Authenticator uygulamasını cihazınıza indirin ve uygulamayı açın.\n\nArsinex.com’a girin veya Arsinex uygulamasını açın ve Giriş Yap seçeneğine tıklayın.\n\nHesabınıza giriş yaptıktan sonra Hesabım kısmında Google Doğrulama sekmesine girerek ekrandaki QR kodunu cihazınızda açılan tarama ekranına okutun.\n\nEğer Google Authenticator uygulamasını kullandığınız aynı cihazda giriş işlemi gerçekleştiriyorsanız ekranda çıkan kodu Google Authenticator uygulamasınına girin.\n\nHerhangi bir sorun olması durumunda kullanabilmeniz için QR ve yazılı kodun yedeğini alın.\n\nGoogle Authenticator uygulamasında çıkan onay kodunu girerek işleminizi tamamlayın."
+    },
+    {
+      "Q": "2FA Kod Hatası Nasıl Çözülür?",
+      "A": "Google Doğrulama kodunuzu girmeye çalışırken kod hatası alıyorsanız aşağıdaki çözümleri deneyin:\n\nGoogle Authenticator uygulamasının saatini cihazınızla eşitleyin. Android sistemli bir cihaz kullanıyorsanız Google Authenticator uygulamasının ana menüsüne gidin. Ayarlar kısmında “Kodlar için zaman düzeltme” butonuna tıklayın. Açılan menüde “Şimdi senkronize et” seçeneğini seçin.\n\nTarayıcınızın önbelleğini ve çerezleri temizleyin.\n\nEğer sorununuz çözülmediyse Google Authenticator uygulamasını sıfırlayın."
+    },
+    {
+      "Q": "Hesabıma başka cihazlardan giriş yapıldı mı?",
+      "A": "Eğer hesabınıza sıradışı bir giriş olduğunu düşünüyorsanız Hesabım kısmında Girişlerim sekmesine girerek hesabınıza giriş yapan bütün cihazları, giriş saatlerini ve IP adreslerini görüntüleyebilirsiniz."
+    }
+  ]
+}
